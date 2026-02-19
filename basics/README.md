@@ -10,4 +10,7 @@ Now What each File does:
     5= ls -na > list digital files only. #
     6= mkdir /tmp/my_first_directory > makes directory like normal mkdir but is pathed so it creates it at other location not in current working directory.
     7= mv /tmp/betty /tmp/my_first_directory > moves a file from one location to another immediantly. 
-    8= rm tmp/my_first_directory/betty > deletes the betty file specified to be inside the my_first_directory location.
+    8= rm tmp/my_first_directory/betty > deletes the betty file specified to be inside the my_first_directory location. rm is the delete command, the rest specifies where to delete and what file.
+    9= rmdir /tmp/my_first_directory > deletes directory at the specified location. rmdir is the delete command, the rest specifies where to delete and what file.
+    10= cd - > another way to go back one level in the directories instead of being sent to root.
+    
