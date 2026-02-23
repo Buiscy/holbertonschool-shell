@@ -3,3 +3,9 @@
 2-groups > groups: lists groups. Print group memberships for each USERNAME or, if no USERNAME is specified, for the current process
 3-new_owner > chown betty hello: Change the owner and/or group of each FILE to OWNER and/or GROUP. 
 4-empty > touch hello: uses the touch command to create a file called hello.
+
+
+
+
+
+Note > In linux, creating new users requires command 'adduser'
