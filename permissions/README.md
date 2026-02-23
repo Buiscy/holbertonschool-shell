@@ -4,8 +4,9 @@
 3-new_owner > chown betty hello: Change the owner and/or group of each FILE to OWNER and/or GROUP. 
 4-empty > touch hello: uses the touch command to create a file called hello.
 
-
+13-change_group > chgrp school hello: changes the owner group of the hello file to 'school'
 
 
 
 Note > In linux, creating new users requires command 'adduser'
+new group is groupadd 
